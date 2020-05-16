@@ -1,0 +1,6 @@
+1. npx expo-cli init food
+2. go to folder <food>
+3. npm install react-navigation
+4. expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+5. npm install react-navigation-stack @react-native-community/masked-view
+6. npm start -c
